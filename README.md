@@ -1,5 +1,5 @@
 This is an fully functional e-commerece web application including payment gateway. 
- # Refer Documents To Grt More Details
+ # Refer Documents To Get More Details
  ## Presentation 
  [1721632998489.pdf](https://github.com/user-attachments/files/19433724/1721632998489.pdf)
 
